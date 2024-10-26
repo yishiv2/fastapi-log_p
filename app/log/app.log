@@ -10,3 +10,18 @@
 2024-10-26T18:58:07 - uvicorn.error:62 - INFO - Application startup complete.
 2024-10-26T18:58:38 - src:16 - INFO - Health check endpoint called
 2024-10-26T18:58:38 - uvicorn.access:476 - INFO - 127.0.0.1:52201 - "GET /health HTTP/1.1" 200
+2024-10-26T19:01:27 - uvicorn.error:262 - INFO - Shutting down
+2024-10-26T19:01:27 - uvicorn.error:67 - INFO - Waiting for application shutdown.
+2024-10-26T19:01:27 - uvicorn.error:76 - INFO - Application shutdown complete.
+2024-10-26T19:01:27 - uvicorn.error:92 - INFO - Finished server process [15160]
+2024-10-26T19:01:28 - uvicorn.error:82 - INFO - Started server process [25100]
+2024-10-26T19:01:28 - uvicorn.error:48 - INFO - Waiting for application startup.
+2024-10-26T19:01:28 - uvicorn.error:62 - INFO - Application startup complete.
+2024-10-26T19:01:40 - src:12 - INFO - Health check endpoint called
+2024-10-26T19:01:40 - uvicorn.access:476 - INFO - 127.0.0.1:52359 - "GET /health HTTP/1.1" 200
+2024-10-26T19:01:40 - src:12 - INFO - Health check endpoint called
+2024-10-26T19:01:40 - uvicorn.access:476 - INFO - 127.0.0.1:52359 - "GET /health HTTP/1.1" 200
+2024-10-26T19:01:40 - src:12 - INFO - Health check endpoint called
+2024-10-26T19:01:40 - uvicorn.access:476 - INFO - 127.0.0.1:52359 - "GET /health HTTP/1.1" 200
+2024-10-26T19:01:41 - src:12 - INFO - Health check endpoint called
+2024-10-26T19:01:41 - uvicorn.access:476 - INFO - 127.0.0.1:52359 - "GET /health HTTP/1.1" 200
