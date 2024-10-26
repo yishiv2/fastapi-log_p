@@ -1,0 +1,12 @@
+2024-10-26T18:56:44 - uvicorn.error:82 - INFO - Started server process [24796]
+2024-10-26T18:56:44 - uvicorn.error:48 - INFO - Waiting for application startup.
+2024-10-26T18:56:44 - uvicorn.error:62 - INFO - Application startup complete.
+2024-10-26T18:58:06 - uvicorn.error:262 - INFO - Shutting down
+2024-10-26T18:58:06 - uvicorn.error:67 - INFO - Waiting for application shutdown.
+2024-10-26T18:58:06 - uvicorn.error:76 - INFO - Application shutdown complete.
+2024-10-26T18:58:06 - uvicorn.error:92 - INFO - Finished server process [24796]
+2024-10-26T18:58:07 - uvicorn.error:82 - INFO - Started server process [15160]
+2024-10-26T18:58:07 - uvicorn.error:48 - INFO - Waiting for application startup.
+2024-10-26T18:58:07 - uvicorn.error:62 - INFO - Application startup complete.
+2024-10-26T18:58:38 - src:16 - INFO - Health check endpoint called
+2024-10-26T18:58:38 - uvicorn.access:476 - INFO - 127.0.0.1:52201 - "GET /health HTTP/1.1" 200
